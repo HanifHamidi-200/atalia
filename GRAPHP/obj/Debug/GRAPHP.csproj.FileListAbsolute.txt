@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\atalia\GRAPHP\bin\Debug\GRAPHP.exe.config
+C:\Users\hanif\Desktop\atalia\GRAPHP\bin\Debug\GRAPHP.exe
+C:\Users\hanif\Desktop\atalia\GRAPHP\bin\Debug\GRAPHP.pdb
+C:\Users\hanif\Desktop\atalia\GRAPHP\obj\Debug\GRAPHP.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\atalia\GRAPHP\obj\Debug\GRAPHP.Form1.resources
+C:\Users\hanif\Desktop\atalia\GRAPHP\obj\Debug\GRAPHP.Properties.Resources.resources
+C:\Users\hanif\Desktop\atalia\GRAPHP\obj\Debug\GRAPHP.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\atalia\GRAPHP\obj\Debug\GRAPHP.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\atalia\GRAPHP\obj\Debug\GRAPHP.exe
+C:\Users\hanif\Desktop\atalia\GRAPHP\obj\Debug\GRAPHP.pdb
