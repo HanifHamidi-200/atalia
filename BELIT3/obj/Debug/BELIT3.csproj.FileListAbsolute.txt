@@ -8,3 +8,8 @@ C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.csproj.GenerateResource.ca
 C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.csproj.CoreCompileInputs.cache
 C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.exe
 C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.pdb
+C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.fSub1.resources
+C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.fSub2.resources
+C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.fSub3.resources
+C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.fSub4.resources
+C:\Users\hanif\Desktop\atalia\BELIT3\obj\Debug\BELIT3.fSub5.resources
